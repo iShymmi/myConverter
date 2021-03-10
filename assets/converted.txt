@@ -1,0 +1,8 @@
+From : LB to OZ => 3 = 48.00
+From : LB to OZ => 123 = 1968.00
+From : LB to OZ => 3.2 = 51.20
+From : LB to OZ => 133 = 2128.00
+From : LB to OZ => 23 = 368.00
+From : LB to OZ => 123 = 1968.00
+From : LB to OZ => 2.3 = 36.80
+From : LB to OZ => .2 = 3.20
