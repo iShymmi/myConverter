@@ -20,8 +20,6 @@ I know It's a far from perfection but It's foundation of my Java programming ski
   - :metal: And more :metal:
 
 ## Instalation
-  :warning:  JDK 11 is required to run
- ( <a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html">You can donwloand it from here </a>)
 
 **1. Compile java files**  
   * Open project folder `myConverter\src `  and run command :    
